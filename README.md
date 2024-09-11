@@ -8,7 +8,7 @@ To use numC, follow these steps:
 
 1. Clone the repository:
 
-    `git clone https://github.com/Sha-x2-nk/numC.git`
+    `git clone https://github.com/aganiyar/numC.git`
 2. Include whatever numC headers / functions you require:
     ```cpp 
     #include "numC/npGPUArray.cuh"
